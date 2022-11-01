@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imbaManHn
+- 👋 Hi, I’m @Hamid
 - 👀 I’m interested in Linux, Webservers/security and Automation :)
 - 🌱 I’m currently learning Web secuirity and new methods about it
 - 💞️ I’m looking to collaborate on anything regarding automation about DDOS Defense
