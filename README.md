@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hamid
-- 👀 I’m interested in Linux, Webservers/security and Automation :)
-- 🌱 I’m currently learning Web secuirity and new methods about it
+- 👀 I’m mostly interested in Linux, Webservers/security and Automation :)
+- 🌱 also I’m currently trying to learn about Web secuirity and anything New about it
 - 💞️ I’m looking to collaborate on anything regarding automation about DDOS Defense
-- 📫 reach me @icecrown.lichking@gmail.com
+- 📫 you can reach me @icecrown.lichking@gmail.com
 
 <!---
 imbaManHn/imbaManHn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
